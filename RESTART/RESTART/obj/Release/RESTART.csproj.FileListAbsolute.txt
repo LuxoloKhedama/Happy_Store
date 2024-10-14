@@ -1,0 +1,10 @@
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.CATEGORIES.resources
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.Form1.resources
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.Properties.Resources.resources
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.csproj.GenerateResource.Cache
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\bin\Release\RESTART.exe
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\bin\Release\RESTART.pdb
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.exe
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.pdb
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\RESTART\RESTART\obj\Release\RESTART.PRODUCT_MANAGEMENT.resources
